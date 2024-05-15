@@ -1,4 +1,4 @@
-package com.utils;
+package com.helpers;
 
 import org.apache.commons.lang3.time.DateFormatUtils;
 import java.lang.management.ManagementFactory;
@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatterBuilder;
 import java.util.*;
 
 
-public class DateZoneUtils extends org.apache.commons.lang3.time.DateUtils
+public class DateZoneHelper extends org.apache.commons.lang3.time.DateUtils
 {
 
 
