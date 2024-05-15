@@ -26,5 +26,7 @@ If you have any suggestions or want to contribute new helper classes, feel free 
 
 If you found these helper classes helpful, consider buying me a coffee:XXXXX
 
+thanks to @author Dmitry Naumenko
+
 
 
