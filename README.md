@@ -29,7 +29,6 @@ Remote Server Integration: These utility classes also offer remote services. Con
 
 If you found these helper classes helpful, consider buying me a coffee:XXXXX
 
-thanks to @author Dmitry Naumenko
 
 
 
