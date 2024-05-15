@@ -24,6 +24,9 @@ IP Helper Class (IPUtils): Includes functionalities such as obtaining client IP 
 Contributions
 If you have any suggestions or want to contribute new helper classes, feel free to open an issue or submit a Pull Request.
 
+Remote Services Available:
+Remote Server Integration: These utility classes also offer remote services. Contact the author to obtain access to remote server addresses.
+
 If you found these helper classes helpful, consider buying me a coffee:XXXXX
 
 thanks to @author Dmitry Naumenko
