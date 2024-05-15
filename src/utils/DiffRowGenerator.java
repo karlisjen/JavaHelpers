@@ -1,45 +1,11 @@
-/*
-   Copyright 2010 Dmitry Naumenko (dm.naumenko@gmail.com)
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
- */
-package difflib;
+package utils;
 
 import difflib.DiffRow.Tag;
 import difflib.myers.Equalizer;
 
 import java.util.*;
 
-/**
- * This class for generating DiffRows for side-by-sidy view.
- * You can customize the way of generating. For example, show inline diffs on not, ignoring
- * white spaces or/and blank lines and so on. All parameters for generating are optional. If you do
- * not specify them, the class will use the default values.
- *
- * These values are:
- * showInlineDiffs = false;
- * ignoreWhiteSpaces = true;
- * ignoreBlankLines = true;
- * ...
- *
- * For instantiating the DiffRowGenerator you should use the its builder. Like in example
- * <code>
- *    DiffRowGenerator generator = new DiffRowGenerator.Builder().showInlineDiffs(true).
- *    	ignoreWhiteSpaces(true).columnWidth(100).build();
- * </code>
- *
- * @author <a href="dm.naumenko@gmail.com">Dmitry Naumenko</a>
-  */
+
 public class DiffRowGenerator {
     private final boolean showInlineDiffs;
     private final boolean ignoreWhiteSpaces;
