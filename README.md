@@ -13,7 +13,7 @@ Classe de Auxílio para IPs (IPUtils): Inclui funcionalidades como obtenção do
 Contribuições
 Se você tiver alguma sugestão ou quiser contribuir com novas classes de auxílio, sinta-se à vontade para abrir uma issue ou enviar um Pull Request.
 
-Se estas classes de auxílio foram úteis para você, considere me oferecer um café:XXXXX
+Se estas classes de auxílio foram úteis para você, considere me oferecer um café:https://buymeacoffee.com/karlisjenay
 
 # Java Helper Class Library
 This repository contains some commonly used Java helper classes designed to simplify common tasks in development. Currently, this library includes helper classes for date and IP manipulation, with many more planned to be added soon.
@@ -27,7 +27,7 @@ If you have any suggestions or want to contribute new helper classes, feel free 
 Remote Services Available:
 Remote Server Integration: These utility classes also offer remote services. Contact the author to obtain access to remote server addresses.
 
-If you found these helper classes helpful, consider buying me a coffee:XXXXX
+If you found these helper classes helpful, consider buying me a coffee:https://buymeacoffee.com/karlisjenay
 
 
 
